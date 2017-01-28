@@ -1,3 +1,5 @@
+## It is used to visualise the data
+
 import graphlab
 import matplotlib.pyplot as plt
 sales=graphlab.SFrame('home_data.gl/')
